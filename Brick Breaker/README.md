@@ -9,5 +9,5 @@ Your IDE must be compatabile with JavaScript
 
 # Usage
 In order to play the game hover over the paddle to move it left and right, and click your mouse for the ball to be in play. Here are some snipets of the game in action:
-![](images/)
+<img src = "TharuniI/Games/blob/master/Brick%20Breaker/images/Brick_Start">
 
