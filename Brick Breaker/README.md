@@ -9,5 +9,10 @@ Your IDE must be compatabile with JavaScript
 
 # Usage
 In order to play the game hover over the paddle to move it left and right, and click your mouse for the ball to be in play. Here are some snipets of the game in action:
-<img src = "images/Brick_Start">
 
+
+<img src = "images/Brick_Start.JPG">
+
+<img src = "images/Brick_PLay1.JPG">
+
+<img src = "images/Brick_PLay2.JPG">
